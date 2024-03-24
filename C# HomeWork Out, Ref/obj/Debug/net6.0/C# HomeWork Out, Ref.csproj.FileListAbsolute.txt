@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\bin\Debug\net6.0\C# HomeWork Out, Ref.exe
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\bin\Debug\net6.0\C# HomeWork Out, Ref.deps.json
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\bin\Debug\net6.0\C# HomeWork Out, Ref.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\bin\Debug\net6.0\C# HomeWork Out, Ref.dll
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\bin\Debug\net6.0\C# HomeWork Out, Ref.pdb
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\obj\Debug\net6.0\C# HomeWork Out, Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\obj\Debug\net6.0\C# HomeWork Out, Ref.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\obj\Debug\net6.0\C# HomeWork Out, Ref.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\obj\Debug\net6.0\C# HomeWork Out, Ref.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\obj\Debug\net6.0\C# HomeWork Out, Ref.dll
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\obj\Debug\net6.0\refint\C# HomeWork Out, Ref.dll
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\obj\Debug\net6.0\C# HomeWork Out, Ref.pdb
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\obj\Debug\net6.0\C# HomeWork Out, Ref.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\C# HomeWork Out, Ref\C# HomeWork Out, Ref\obj\Debug\net6.0\ref\C# HomeWork Out, Ref.dll
